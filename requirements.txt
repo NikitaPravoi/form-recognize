@@ -1,0 +1,4 @@
+# Сделано на Python 3.11
+flask==3.0.0
+requests==2.31.0
+tinydb==4.8.0
